@@ -1,0 +1,20 @@
+:root {
+  --tv-color-platform-background: #141C29;
+  --tv-color-pane-background: #141C29;
+  --tv-color-pane-background-secondary: #ff0000;
+  --tv-color-toolbar-button-background-hover: hsl(217, 34%, 20%);
+  --tv-color-toolbar-button-background-secondary-hover: #969696;
+  --tv-color-toolbar-button-background-expanded: #141C29;
+  --tv-color-toolbar-button-text: #969696;
+  --tv-color-toolbar-button-text-hover: #969696;
+  --tv-color-toolbar-button-text-active: hsl(135, 80%, 26%);
+  --tv-color-toolbar-button-text-active-hover: #969696;
+  --tv-color-item-active-text: rgb(6, 255, 6);
+  --tv-color-toolbar-toggle-button-background-active: #969696;
+  --tv-color-toolbar-toggle-button-background-active-hover: hsl(217, 34%, 20%);
+}
+
+#header-toolbar-symbol-search .js-button-text,
+.chart-widget__top--themed-dark .title-2KhwsEwE {
+  color: #F1F1F1;
+}
